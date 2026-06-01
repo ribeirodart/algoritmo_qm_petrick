@@ -1,0 +1,1 @@
+# algoritmo_qm_petrick
